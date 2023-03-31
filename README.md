@@ -1,10 +1,9 @@
 # Microsoft FQA Links
 Microsoft FQA Links
 
-Global
-* Microsoft 365  FQA
-* Azure  FQA
 
-China
-* Microsoft 365  FQA
-* Azure  FQA
+* Microsoft 365 Global FQA
+* Microsoft 365 China FQA
+
+* Azure Global FQA
+* Azure China FQA
